@@ -1,9 +1,13 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&fontAlign=50&fontAlignY=30&text=Jeho%20Lee&desc=developer&descAlign=70&descAlignY=55&height=200&fontSize=60&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&fontAlign=50&fontAlignY=30&text=Welcome&desc=Jeho%20GitHub%20Profile&descAlign=70&descAlignY=55&height=200&fontSize=60&fontColor=ffffff)
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="200"/>
 </div>
 
-<h2 align="center">📚 Tech Stack 📚</h2>
+<p align="center">
+  <small>Nice to meet you!</small>
+</p> 
+
+<h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 </a>&nbsp
