@@ -4,10 +4,15 @@
 </div>
 <br>
 <p align="center">
-  <small>Good day! I am Jeho Lee <br></small>
-  <small>If you want to contact me, please leave me a message!</small>
+  <small>Good day!:smiley: I am Jeho Lee <br></small>
+  <small>If you want to contact me, please leave me a message! <br></small>
 </p> 
-
+<br>
+<h3 align="center">:e-mail: Email :e-mail:</h3>
+<p align="center">
+wpghrkwkd@gmail.com
+</p> 
+<br>
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
@@ -30,7 +35,7 @@
   <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=white">
 </a>&nbsp  
 </p>
-<br>
+<br><br>
 <p align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdlwpgh97%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </p>
