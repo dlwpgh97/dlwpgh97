@@ -2,9 +2,10 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="200"/>
 </div>
-
+<br>
 <p align="center">
-  <small>Nice to meet you!</small>
+  <small>Good day! I am Jeho Lee <br></small>
+  <small>If you want to contact me, please leave me a message!</small>
 </p> 
 
 <h3 align="center">📚 Tech Stack 📚</h3>
@@ -29,7 +30,7 @@
   <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=white">
 </a>&nbsp  
 </p>
-
+<br>
 <p align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdlwpgh97%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </p>
